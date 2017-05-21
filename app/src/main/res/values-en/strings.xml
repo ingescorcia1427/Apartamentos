@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Building</string>
+    <string name="titulo_app">Algorithm Heights</string>
+    <string name="continuar">CONTINUE</string>
+
+
+    <string name="registro_apto">1. Apartment Registration</string>
+    <string name="lista_apartamentos">2. Apartments list</string>
+    <string name="reportes">3. Reports</string>
+    <string-array name="opciones_principal">
+        <item>@string/registro_apto</item>
+        <item>@string/lista_apartamentos</item>
+        <item>@string/reportes</item>
+    </string-array>
+
+    <string name="apto_sombra_balcon">1. Apartments with Balcony and Shadow</string>
+    <string name="apto_caro">2. Floor of the Most Expensive Apartment</string>
+    <string name="promedio_tamano">4.  Average Size of Apartments</string>
+    <string-array name="opciones_reportes">
+        <item>@string/apto_sombra_balcon</item>
+        <item>@string/apto_caro</item>
+        <item>@string/nom_m2_apto_grande</item>
+        <item>@string/promedio_tamano</item>
+    </string-array>
+
+
+    <string name="titulo_registro">REGISTER APARTMENT</string>
+    <string name="titulo_listado">APARTMENTS LIST</string>
+
+
+    <string name="nomenclatura">Nomenclature</string>
+    <string name="piso_1">P1</string>
+    <string name="piso_2">P2</string>
+    <string name="piso_3">P3</string>
+    <string name="piso_4">P4</string>
+    <string name="piso_5">P5</string>
+    <string name="piso_6">P6</string>
+    <string name="piso_7">P7</string>
+    <string name="numero">No.</string>
+    <string name="tamano">Size</string>
+    <string name="area">Area</string>
+    <string name="m2">Mts 2</string>
+    <string name="caracteristica">Characteristics</string>
+    <string name="balcon">Balcony</string>
+    <string name="sombra">Shadow</string>
+
+    <string name="estado_si">Yes</string>
+    <string name="estado_no">No</string>
+
+    <string name="precio">Price</string>
+    <string-array name="opc_nomenclatura">
+        <item>@string/piso_1</item>
+        <item>@string/piso_2</item>
+        <item>@string/piso_3</item>
+        <item>@string/piso_4</item>
+        <item>@string/piso_5</item>
+        <item>@string/piso_6</item>
+        <item>@string/piso_7</item>
+    </string-array>
+
+    <string name="registro_exitoso">Successfully registered apartment</string>
+    <string name="validar_nomenclatura">" Please, enter Nomenclature"</string>
+    <string name="validar_tamano">Please, enter the Size</string>
+    <string name="validar_precio">Please, enter the price</string>
+
+    <string name="registrar">REGISTER</string>
+    <string name="eliminar">DELETE</string>
+    <string name="buscar">SEARCH</string>
+    <string name="modificar">UPDATE</string>
+    <string name="limpiar">CLEAN</string>
+
+    <string name="titulo_sombra">Total Apartments with Shade</string>
+    <string name="titulo_balcon">" Total Apartments with Balcony"</string>
+    <string name="titulo_sb">" Total Apartments with Shade and Balcony"</string>
+
+    <string name="msj_apto_con_sombra">Total with Shadow</string>
+    <string name="msj_apto_con_balcon">Total with balcony</string>
+    <string name="msj_apto_con_sombraYbalcon">Total with Balcony and Shadow</string>
+    <string name="msj_apto_mas_caro">Floor of the Most Expensive Apartment</string>
+    <string name="msj_apto_mayor_tamano">Larger apartment</string>
+    <string name="msj_mantenimiento">This option is in maintenance</string>
+    <string name="msj_nomenclatura_existe">Nomenclature already exists, Enter other</string>
+    <string name="msj_nomenclatura_noExiste">No nomenclature, try again</string>
+    <string name="msj_tamano_promedio">Average size</string>
+    <string name="nom_m2_apto_grande">3. Larger apartment</string>
+</resources>

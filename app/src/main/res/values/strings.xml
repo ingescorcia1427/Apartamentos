@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">App Edificio</string>
+    <string name="titulo_app">Altos del Algoritmo</string>
+    <string name="continuar">CONTINUAR</string>
+
+
+    <string name="registro_apto">1. Registro de Apartamentos</string>
+    <string name="lista_apartamentos">2. Listado Apartamentos</string>
+    <string name="reportes">3. Reportes</string>
+    <string-array name="opciones_principal">
+        <item>@string/registro_apto</item>
+        <item>@string/lista_apartamentos</item>
+        <item>@string/reportes</item>
+    </string-array>
+
+    <string name="apto_sombra_balcon">1. Apartamentos con Sombra y Balcon</string>
+    <string name="apto_caro">2. Piso Apartamento más Costoso</string>
+    <string name="nom_m2_apto_grande">3. Apartamento con mayor tamaño</string>
+    <string name="promedio_tamano">4. Promedio Tamaño de Apartamentos</string>
+    <string-array name="opciones_reportes">
+        <item>@string/apto_sombra_balcon</item>
+        <item>@string/apto_caro</item>
+        <item>@string/nom_m2_apto_grande</item>
+        <item>@string/promedio_tamano</item>
+    </string-array>
+
+
+    <string name="titulo_registro">REGISTRAR APARTAMENTO</string>
+    <string name="titulo_listado">LISTADO APARTAMENTOS</string>
+
+
+    <string name="nomenclatura">Nomenclatura</string>
+    <string name="piso_1">P1</string>
+    <string name="piso_2">P2</string>
+    <string name="piso_3">P3</string>
+    <string name="piso_4">P4</string>
+    <string name="piso_5">P5</string>
+    <string name="piso_6">P6</string>
+    <string name="piso_7">P7</string>
+    <string name="numero">No.</string>
+    <string name="tamano">Tamaño</string>
+    <string name="area">Área</string>
+    <string name="m2">Mts 2</string>
+    <string name="caracteristica">Carácteristicas</string>
+    <string name="balcon">Balcon</string>
+    <string name="sombra">Sombra</string>
+
+    <string name="estado_si">Si</string>
+    <string name="estado_no">No</string>
+
+    <string name="precio">Precio</string>
+    <string-array name="opc_nomenclatura">
+        <item>@string/piso_1</item>
+        <item>@string/piso_2</item>
+        <item>@string/piso_3</item>
+        <item>@string/piso_4</item>
+        <item>@string/piso_5</item>
+        <item>@string/piso_6</item>
+        <item>@string/piso_7</item>
+    </string-array>
+
+    <string name="registro_exitoso">Apartamento registrado exitosamente</string>
+    <string name="validar_nomenclatura">Por favor, dígite Nomenclatura</string>
+    <string name="validar_tamano">Por favor, dígite el Tamaño</string>
+    <string name="validar_precio">Por favor, dígite el Precio</string>
+
+    <string name="registrar">REGISTRAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="modificar">MODIFICAR</string>
+    <string name="limpiar">LIMPIAR</string>
+
+    <string name="titulo_sombra">Total Apartamentos con Sombra</string>
+    <string name="titulo_balcon">Total Apartamentos con Balcon</string>
+    <string name="titulo_sb">Total Apartamentos con Sombra y Balcon</string>
+
+    <string name="msj_nomenclatura_existe">La nomenclatura ya existe, dígite otra</string>
+    <string name="msj_nomenclatura_noExiste">No existe nomenclatura, intentelo de nuevo</string>
+    <string name="msj_apto_con_sombra">Total con Sombra</string>
+    <string name="msj_apto_con_balcon">Total con Balcon</string>
+    <string name="msj_apto_con_sombraYbalcon">Total con Balcon y Sombra</string>
+    <string name="msj_apto_mas_caro">Piso del Apartamento mas costoso</string>
+    <string name="msj_apto_mayor_tamano">Apartamento de mayor tamaño</string>
+    <string name="msj_tamano_promedio">Tamaño promedio</string>
+    <string name="msj_mantenimiento">Esta opción se encuentra en mantenimiento</string>
+</resources>
